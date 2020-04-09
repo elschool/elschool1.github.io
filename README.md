@@ -1,1 +1,1 @@
-# elschool1.github.io
+# elschool.github.io
